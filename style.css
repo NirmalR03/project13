@@ -1,0 +1,40 @@
+h1{
+    font-size: 60px;
+    margin-left: 30%;
+}
+.c1{
+    font-size: 50px;
+    color: rgba(5, 171, 5, 0.831);
+}
+#d1{
+    border: 2px solid grey;
+    margin-right: 10%;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+    float: left;
+}
+#d2{
+    border: 2px solid grey;
+    margin-right: 10%;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 180px;
+    padding-left: 200px;
+    float: left;
+    
+}
+#d1>d3{
+    float: right;
+    /* margin:0 auto; */
+}
+#d2>d4{
+    float:right;
+}
+.c2{
+    font-size: 50px;
+    color: grey;
+}
